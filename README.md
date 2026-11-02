@@ -38,8 +38,8 @@
 
 ##### Структура репозитория
 
-• \[data/](data/) — файлы excel с данными.  
-• \[reports/](reports/)/ — презентация проекта (powerpoint).  
-• \[dashboards/](dashboards/) — интерактивный дашборд в Google Sheets.
+[data/](data/) — файлы excel с данными.  
+[reports/](reports/)/ — презентация проекта (powerpoint).  
+[dashboards/](dashboards/) — интерактивный дашборд в Google Sheets.
 ---
 
